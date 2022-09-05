@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **famosaoluwamuyiwa@gmail.com**
 
-- My Portfolio <a href="https://www.famosamuyiwa.epizy.com">here</a>
+- My Portfolio <a href="http://www.famosamuyiwa.epizy.com">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
