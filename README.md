@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=ecf05e47c6e78gx2tzq3ml6cjbabxb0urmnnuxsw0vqfpgk1&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=famosamuyiwa&label=Profile%20views&color=0e75b6&style=flat" alt="famosamuyiwa" /> </p>
 
-- 🔭 I’m currently working on **Meddix**
+- 🔭 I’m currently working on **Chopperly**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Nestjs and Angular**
 
-- 💬 Ask me about **Python , Java**
+- 💬 Ask me about **Python , Javascript, react-native expo**
 
 - 📫 How to reach me **famosaoluwamuyiwa@gmail.com**
 
