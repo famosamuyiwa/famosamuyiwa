@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muyiwa</h1>
+<h1 align="center">Hi 👋, I'm Olu</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=ecf05e47c6e78gx2tzq3ml6cjbabxb0urmnnuxsw0vqfpgk1&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=famosamuyiwa&label=Profile%20views&color=0e75b6&style=flat" alt="famosamuyiwa" /> </p>
